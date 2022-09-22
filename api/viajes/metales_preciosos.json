@@ -1,0 +1,42 @@
+[
+    {
+        "nombre": "Osmio / Osmium",
+        "valor": "Osmio"
+    },
+    {
+        "nombre": "Rodio / Rhodium",
+        "valor": "Rodio"
+    },
+    {
+        "nombre": "Iridio / Iridium",
+        "valor": "Iridio"
+    },
+    {
+        "nombre": "Paladio / Palladium",
+        "valor": "Paladio"
+    },
+    {
+        "nombre": "Oro / Gold",
+        "valor": "Oro"
+    },
+    {
+        "nombre": "Platino / Platinum",
+        "valor": "Platino"
+    },
+    {
+        "nombre": "Rutenio / Ruthenium",
+        "valor": "Rutenio"
+    },
+    {
+        "nombre": "Renio / Rhenium",
+        "valor": "Renio"
+    },
+    {
+        "nombre": "Plata / Silver",
+        "valor": "Plata"
+    },
+    {
+        "nombre": "Indio / Indium",
+        "valor": "Indio"
+    }
+]
